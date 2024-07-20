@@ -1,0 +1,11 @@
+android_app_import {
+	name: "Droid-ify",
+	owner: "Droid-ify",
+	apk: "droidify-0.6.3.apk",
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
